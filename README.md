@@ -11,7 +11,7 @@ This analysis simulates real-world work done by data analysts in product, growth
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 
 - What is the overall churn rate?
 - Which customer segments are most likely to churn?
@@ -147,14 +147,6 @@ Revenue Lost (Monthly) = CALCULATE(SUM('telco-customer-churn'[MonthlyCharges]), 
 
 ## 👤 Author
 
-**[Your Name]**
+**[monicah wairia]**
 Data Science & Analytics Intern — Future Interns 2026
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-🔗 [Future Interns](https://www.linkedin.com/company/future-interns/)
 
----
-
-## 📌 Acknowledgements
-
-- Dataset: IBM / Kaggle – Telco Customer Churn
-- Internship Program: [Future Interns](https://futureinterns.com)
